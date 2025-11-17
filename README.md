@@ -53,4 +53,4 @@ git clone https://github.com/noobdev08/ssdev-amazon-project.git
 
 ## Live Demo
 
-[[https://noob-amazon-clone.vercel.app](](https://noob-amazon-clone.vercel.app]%28)[https://noob-amazon-clone.vercel](https://noob-amazon-clone.vercel)
+[Live Demo](https://noob-amazon-clone.vercel.app)
